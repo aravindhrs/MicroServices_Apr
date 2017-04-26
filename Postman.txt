@@ -1,0 +1,9 @@
+Postman:
+localhost:8085/s2rates/qa
+localhost:8085/s2rates/default
+
+
+http://banking.com/digitalbanking-screens/#/home
+http://banking.com:8090/accservices/556677/accounts
+http://banking.com:8110/loanservices/1/loans
+http://banking.com:8100/cardservices/556677/cards
