@@ -1,0 +1,17 @@
+Day 1 --> Spring & Spring Boot
+Day 2 --> MicroServices Architecture
+Day 3 --> MicroServices Architecture
+Day 4 --> Containerization & Docker
+
+https://github.com/Training2017/MicroServices_Apr
+\\din76000468\Tr-2 2nd floor
+
+D:\Users\lnc\Desktop\MicroServices\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;
+C:\Program Files\Java\jdk1.8.0\bin;
+D:\Users\lnc\Desktop\MicroServices\spring-boot-cli-1.5.2.RELEASE-bin\spring-1.5.2.RELEASE
+
+
+C:\Program Files\Java\jdk1.8.0\bin;
+D:\Users\lnc\Desktop\MicroServices\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;
+
+10.138.10.37

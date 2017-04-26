@@ -1,0 +1,3 @@
+{"authResult": "success", "applicationConfigurationURLs": {"accSummaryUrl": "http://banking.com:8090/accservices/556677/accounts",
+ "loanSummaryUrl": "http://banking.com:8110/loanservices/1/loans", 
+  "cardSummaryUrl": "http://banking.com:8100/cardservices/556677/cards"}}
